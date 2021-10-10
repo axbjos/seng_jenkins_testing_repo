@@ -1,2 +1,3 @@
-# test_jenkins_files
-repo for testing Jenkins files
+# Jenkins Testing Repo
+
+This is just a repo I use for testing Jenkinsfile functionality.
